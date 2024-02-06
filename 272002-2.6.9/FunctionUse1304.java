@@ -1,0 +1,6 @@
+import com.alibaba.dubbo.common.json.Yylex;
+public class FunctionUse1304 {
+public void funcUse() {
+Yylex yylex = new Yylex();
+}
+}
